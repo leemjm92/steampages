@@ -10,6 +10,9 @@ Robotics Challenge
     Credit: <a href="https://www.midjourney.com/home/" title="AI Image Generation">midjourney</a>, AI generated images.
 </p>
 
+# Testing
+Go to [general rules](general-rules.md)
+
 # Table of Contents
 * [Overview](#chapter1)
 * [General Rules](general-rules.md)

@@ -1,7 +1,5 @@
 ---
 title: General Rules
-layout: template
-filename: general-rules.md
 --- 
 
 # :robot: General Rules :robot:
