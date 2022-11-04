@@ -1,3 +1,9 @@
+---
+layout: default
+title: General Rules
+nav_order: 1
+---
+
 # General Rules
 
 # Table of Contents

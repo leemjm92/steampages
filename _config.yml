@@ -1,12 +1,15 @@
+title: "STEAMxD"
 remote_theme: just-the-docs/just-the-docs
+color_scheme: "dark"
 plugins:
   - jekyll-relative-links
   - jemoji
 relative_links:
   enabled: true
   collections: true
-include:
-  - general-rules.md
-  - technical-rules.md
-  - game-field.md
-  - robot.md
+
+# include:
+#   - general-rules.md
+#   - technical-rules.md
+#   - game-field.md
+#   - robot.md
