@@ -7,4 +7,6 @@ relative_links:
   collections: true
 include:
   - general-rules.md
-  - README.md
+  - technical-rules.md
+  - game-field.md
+  - robot.md
