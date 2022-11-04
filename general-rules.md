@@ -1,4 +1,4 @@
-# :robot: General Rules :robot:
+# General Rules
 
 # Table of Contents
 * [STEAMxD Competition 2022](#chapter1)
